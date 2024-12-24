@@ -2,7 +2,7 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
-      <module fileurl="file://$PROJECT_DIR$/.idea/bobwei.github.io.iml" filepath="$PROJECT_DIR$/.idea/bobwei.github.io.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/react-portfolio-template.iml" filepath="$PROJECT_DIR$/.idea/react-portfolio-template.iml" />
     </modules>
   </component>
 </project>
