@@ -1,0 +1,19 @@
+{
+  "files": {
+    "main.css": "/bobwei.github.io/static/css/main.1bf95b89.css",
+    "main.js": "/bobwei.github.io/static/js/main.c33cd087.js",
+    "static/js/453.b05d8aa5.chunk.js": "/bobwei.github.io/static/js/453.b05d8aa5.chunk.js",
+    "static/media/bg-light1.png": "/bobwei.github.io/static/media/bg-light1.ef7f960d01312f7f7688.png",
+    "static/media/mock10.png": "/bobwei.github.io/static/media/mock10.ede48ad697c309d9da1b.png",
+    "static/media/bg-dark.png": "/bobwei.github.io/static/media/bg-dark.f420c6b8458af72de935.png",
+    "static/media/1704682635741.jpg": "/bobwei.github.io/static/media/1704682635741.2f7d1e13d2a364e9ea4b.jpg",
+    "index.html": "/bobwei.github.io/index.html",
+    "main.1bf95b89.css.map": "/bobwei.github.io/static/css/main.1bf95b89.css.map",
+    "main.c33cd087.js.map": "/bobwei.github.io/static/js/main.c33cd087.js.map",
+    "453.b05d8aa5.chunk.js.map": "/bobwei.github.io/static/js/453.b05d8aa5.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.1bf95b89.css",
+    "static/js/main.c33cd087.js"
+  ]
+}
